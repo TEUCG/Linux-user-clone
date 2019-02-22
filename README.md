@@ -4,5 +4,5 @@ bash script to clone a linux user. This is by no means my invention, and I have 
 Usage:<br>
 $ clone-user src_user_name new_user_name
 
-Make sure to set the back script with permissions to execute:<br>
+Make sure to set the bash script to have permissions to execute:<br>
 $ chmod u+x clone-user
