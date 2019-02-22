@@ -3,3 +3,6 @@ bash script to clone a linux user. This is by no means my invention, and I have 
 
 Usage:
 $ clone-user src_user_name new_user_name
+
+Make sure to set the back script with permissions to execute:
+$ chmod u+x clone-user
